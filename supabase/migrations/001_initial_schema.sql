@@ -242,3 +242,4 @@ CREATE POLICY "Presenters can manage options" ON answer_options
     WHERE slides.id = answer_options.slide_id
     AND presentations.user_id = auth.uid()
   ));
+

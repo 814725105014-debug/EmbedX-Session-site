@@ -302,3 +302,4 @@ export const SessionReportPage: React.FC = () => {
     </div>
   );
 };
+

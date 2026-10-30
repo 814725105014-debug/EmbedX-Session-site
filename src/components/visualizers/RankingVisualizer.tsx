@@ -79,3 +79,4 @@ export const RankingVisualizer: React.FC<RankingVisualizerProps> = ({
     </div>
   );
 };
+

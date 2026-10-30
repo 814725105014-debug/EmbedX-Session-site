@@ -171,3 +171,4 @@ class SoundManager {
 }
 
 export const soundFX = new SoundManager();
+

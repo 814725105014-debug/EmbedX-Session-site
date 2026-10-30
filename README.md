@@ -166,3 +166,4 @@ To connect to Supabase Cloud:
 - **Institution**: SRM TRP Engineering College, Tiruchirappalli, Tamil Nadu
 - **Annual Flagship Event**: EMBEDNOVA National Symposium
 - **Existing Website**: [https://embedx.neocities.org/](https://embedx.neocities.org/)
+

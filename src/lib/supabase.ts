@@ -23,3 +23,4 @@ if (!isSupabaseConfigured) {
     'ℹ️ EMBEDX Realtime running in self-hosted Socket.IO mode. To sync with Supabase Cloud, provide VITE_SUPABASE_URL & VITE_SUPABASE_ANON_KEY in your .env file.'
   );
 }
+

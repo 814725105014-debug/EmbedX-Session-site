@@ -92,3 +92,4 @@ export const RatingVisualizer: React.FC<RatingVisualizerProps> = ({
     </div>
   );
 };
+

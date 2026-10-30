@@ -140,3 +140,4 @@ export const QuizLeaderboard: React.FC<QuizLeaderboardProps> = ({
     </div>
   );
 };
+

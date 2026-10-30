@@ -113,3 +113,4 @@ export const BarChartVisualizer: React.FC<BarChartVisualizerProps> = ({
     </div>
   );
 };
+

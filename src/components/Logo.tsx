@@ -41,3 +41,4 @@ export const Logo: React.FC<LogoProps> = ({ size = 'md', showSubtitle = true }) 
     </Link>
   );
 };
+
